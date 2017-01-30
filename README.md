@@ -6,7 +6,9 @@ This repository contains documents pertaining to the MintCoin project and it's v
 Layout of the repository is as follows:
 ```
 MintCoin-Docs
-|    README.md (this file)
+|   README.md (this file)
+|-- Announcements (Official announcements)
+|   `-- *.md (individual announcement documents)
 |-- Wallets (documents for desktop wallet versions)
     `-- *.md (version specific documents)
 ```
@@ -17,3 +19,6 @@ More folders and documents will be added in the future as information becomes av
 - [2.0.2 Release](Wallets/2.0.2-Release.md)
 - [2.0 Proposed Revisions](Wallets/2.0-Proposed_Revisions.md)
 - *2.1.0 Release - Coming Soon*
+
+### Announcements ###
+- [2.0.3 TestNet](Announcements/2.0.3-TestNet.md)

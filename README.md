@@ -17,8 +17,9 @@ More folders and documents will be added in the future as information becomes av
 ### Desktop Wallet Documents ###
 - [2.0.1 Release](Wallets/2.0.1-Release.md)
 - [2.0.2 Release](Wallets/2.0.2-Release.md)
-- [2.0 Proposed Revisions](Wallets/2.0-Proposed_Revisions.md)
+- *2.0.3 Release - Coming Soon*
 - *2.1.0 Release - Coming Soon*
 
 ### Announcements ###
+- [2.0 Proposed Revisions](Announcements/2.0-Proposed_Revisions.md)
 - [2.0.3 TestNet](Announcements/2.0.3-TestNet.md)
